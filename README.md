@@ -1,4 +1,4 @@
-#README
+# README
 
 This script reads an Excel Spreadsheet with a set of key column and value column, and convert them into IOS string
 resource file 'Localizable.strings' or Android string resource file 'strings.xml'. The script allows customized
